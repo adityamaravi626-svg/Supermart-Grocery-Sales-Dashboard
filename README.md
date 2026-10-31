@@ -65,9 +65,4 @@ The dashboard provides insights into:
 - Locations generating high sales but comparatively lower profit.
 - The relationship between discounts and profit.
 
-B.Tech Electrical Engineering  
-Maulana Azad National Institute of Technology, Bhopal
 
-## Disclaimer
-
-This project is created for data analytics learning and portfolio demonstration. The original dataset is confidential and is not shared in this repository.
